@@ -1,5 +1,3 @@
-# CS 498 E2E Final Project (sp24) repo for NetID: manju2
-
 **Project: Visualization and Severity Classification of Road Traffic Accidents**
 
 **Purpose:**
